@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:        JAYANTH S S            </h3>
-<h3>Register Number:    212224050014          </h3>
+<h3>Name:    G NAGA GOWTHAM      </h3>
+<h3>Register Number:    212224060086       </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
